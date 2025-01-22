@@ -79,7 +79,7 @@
 <br><br>
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
+<div style="display: flex; align-items: center;">
   <!-- Top Languages Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dr0pG&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
 </div>
