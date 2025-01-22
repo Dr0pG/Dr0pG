@@ -17,7 +17,7 @@
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table align="center" style="overflow: hidden;">
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
