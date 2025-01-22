@@ -74,4 +74,6 @@
 <br><br>
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr0pG&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight" alt="Sugith Top Languages" />
+<div style="align-items: center;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr0pG&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight" alt="Sugith Top Languages" />
+</div>
