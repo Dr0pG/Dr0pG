@@ -3,7 +3,7 @@
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<br><br>
+<div style="margin-bottom: 200px;"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dr0pG&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
