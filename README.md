@@ -39,7 +39,7 @@
       <br>Git
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="45" height="45" />
       <br>VSCode
     </td>
   </tr>
@@ -53,7 +53,7 @@
       <br>Bitrise
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
+      <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="Android Studio" width="45" height="45" />
       <br>Android Studio
     </td>
     <td align="center" width="100">
