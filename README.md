@@ -53,7 +53,7 @@
       <br>Bitrise
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android Studio" width="45" height="45" />
+      <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android Studio" width="60" height="60" />
       <br>Android Studio
     </td>
     <td align="center" width="100">
