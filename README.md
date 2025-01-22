@@ -16,67 +16,60 @@
 <samp>- 📱 React Native</samp>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center" style="overflow: hidden;">
+<table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="icon" width="45" height="45" alt="React Native" />
-      </a>
+      <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="45" height="45" />
       <br>React Native
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="icon" width="45" height="45" alt="React" />
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="45" height="45" />
       <br>React
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="icon" width="45" height="45" alt="JavaScript" />
+      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="45" height="45" />
       <br>JavaScript
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="icon" width="45" height="45" alt="Typescript" />
-      <br>Typescript
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="45" height="45" />
+      <br>TypeScript
     </td>
-    <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="45" height="45" alt="Git" />
+    <td align="center" width="100">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
       <br>Git
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VsCode" />
-      <br>VsCode
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="45" height="45" />
+      <br>VSCode
     </td>
   </tr>
- <tr>
-   <tr>
-      <td align="center" width="100"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="45" height="45" alt="Bitbucket" />
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" width="45" height="45" />
       <br>Bitbucket
     </td>
-      <td align="center" width="100"> 
-        <img src="https://www.svgrepo.com/show/353490/bitrise-icon.svg" width="45" height="45" alt="Bitrise" />
+    <td align="center" width="100">
+      <img src="https://www.svgrepo.com/show/353490/bitrise-icon.svg" alt="Bitrise" width="45" height="45" />
       <br>Bitrise
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="45" height="45" />
       <br>Android Studio
     </td>
     <td align="center" width="100">
-        <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="icon" width="45" height="45" alt="Xcode" />
+      <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="Xcode" width="45" height="45" />
       <br>Xcode
     </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" alt="Firebase" />
-      </a>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
       <br>Firebase
     </td>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
       <br>Postman
     </td>
   </tr>
- <tr>
 </table>
-</div>
 
 <br><br>
 
