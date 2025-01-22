@@ -1,9 +1,8 @@
 <h2 align="center"><samp>Hello 👋 I'm Diogo Venâncio!</samp></h2>
 <h3 align="center"><samp>A mobile developer from Portugal</samp> </h3>
 
-<div align="center" style="margin-bottom: 200px;">
-  <img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/026360c6-1c46-41a8-81a3-565423caf3ce">
-</div>
+<img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/026360c6-1c46-41a8-81a3-565423caf3ce">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dr0pG&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /></p>
 
