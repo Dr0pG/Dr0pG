@@ -1,4 +1,4 @@
-<h2 align="center"><samp>Hello 👋 I'm Diogo Venâncio</samp></h2>
+<h2 align="center"><samp>Hello 👋 I'm Diogo Venâncio!</samp></h2>
 <h3 align="center"><samp>A mobile developer from Portugal</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
@@ -39,16 +39,20 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="100"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="48" height="48" alt="Git" />
-      <br>Bitbucket
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
     </td>
   </tr>
  <tr>
    <tr>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <td align="center" width="100"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="48" height="48" alt="Git" />
+      <br>Bitbucket
+    </td>
+      <td align="center" width="100"> 
+        <img src="https://www.svgrepo.com/show/353490/bitrise-icon.svg" width="48" height="48" alt="Git" />
+      <br>Bitrise
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
@@ -78,6 +82,4 @@
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dr0pG&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dr0pG" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </div>
