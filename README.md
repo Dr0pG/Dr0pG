@@ -27,7 +27,7 @@
       <br>React
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="45" height="45" />
+      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="45" height="45" />
       <br>JavaScript
     </td>
     <td align="center" width="100">
