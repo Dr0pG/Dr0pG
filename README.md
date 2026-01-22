@@ -1,14 +1,14 @@
 <h2 align="center"><samp>Hello 👋 I'm Diogo Venâncio!</samp></h2>
 <h3 align="center"><samp>A mobile developer from Portugal</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/a6f7d39f-b085-4c0a-bc28-96b53ef9bca0">
 <img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/026360c6-1c46-41a8-81a3-565423caf3ce">
-
-<p>&nbsp;</p>
+<img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/312fcfa5-3e55-4c04-88ec-2d10867cb30b">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dr0pG&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /></p>
 
 <div style="margin-bottom: 200px;"></div>
+
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/diogo-venancio-mobile/</samp>
 
