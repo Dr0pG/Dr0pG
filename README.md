@@ -1,6 +1,7 @@
 <h2 align="center"><samp>Hello 👋 I'm Diogo Venâncio!</samp></h2>
 <h3 align="center"><samp>A mobile developer from Portugal</samp> </h3>
 
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/026360c6-1c46-41a8-81a3-565423caf3ce">
 
 <p>&nbsp;</p>
