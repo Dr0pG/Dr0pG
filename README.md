@@ -35,15 +35,23 @@
       <br>TypeScript
     </td>
     <td align="center" width="100">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
-      <br>Git
+      <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo" width="45" height="45" />
+      <br>Expo
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="45" height="45" />
       <br>VSCode
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor" width="45" height="45" />
+      <br>Cursor
+    </td>
+    <td align="center" width="100">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="45" height="45" />
+      <br>Git
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="Bitbucket" width="45" height="45" />
       <br>Bitbucket
@@ -52,6 +60,8 @@
       <img src="https://www.svgrepo.com/show/353490/bitrise-icon.svg" alt="Bitrise" width="45" height="45" />
       <br>Bitrise
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" alt="Android Studio" width="60" height="60" />
       <br>Android Studio
@@ -61,12 +71,38 @@
       <br>Xcode
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
-      <br>Firebase
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45" />
       <br>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" alt="Sentry" width="45" height="45" />
+      <br>Sentry
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.brandfetch.io/idgF9FqCgW/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Amplitude" width="45" height="45" />
+      <br>Amplitude
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" alt="CircleCi" width="45" height="45" />
+      <br>CircleCi
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45" />
+      <br>Jira
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" alt="Notion" width="45" height="45" />
+      <br>Notion
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" width="45" height="45" />
+      <br>Teams
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="45" height="45" />
+      <br>Slack
     </td>
   </tr>
 </table>
