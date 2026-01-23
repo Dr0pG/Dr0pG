@@ -1,9 +1,8 @@
 <h2 align="center"><samp>Hello 👋 I'm Diogo Venâncio!</samp></h2>
 <h3 align="center"><samp>A mobile developer from Portugal</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/a6f7d39f-b085-4c0a-bc28-96b53ef9bca0">
 <img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/026360c6-1c46-41a8-81a3-565423caf3ce">
-<img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/312fcfa5-3e55-4c04-88ec-2d10867cb30b">
+<img align="center" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/a6f7d39f-b085-4c0a-bc28-96b53ef9bca0">
 
 <br><br>
 
